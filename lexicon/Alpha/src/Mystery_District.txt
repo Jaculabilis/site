@@ -1,0 +1,32 @@
+# Player: HM
+# Turn: 6
+# Title: Mystery District
+
+In every map made of the Republic, on the far side of the Third Quartile, there
+is a small sector conspicuously missing. On some maps, you might see it labeled
+the **Mystery District**, though this is simply a name given to the region by
+fans of conspiracies surrounding it.
+
+Due to massive walls bordering the district and an estimated 250 personnel on
+patrol around the perimeter, no one from outside the district has ever been
+inside. As such, absolutely nothing is known about its purpose. Conspirators
+have their theories, however:
+
+- As the Mystery District lies on the outer boundary of the Republic, many have
+speculated ties to [[The Outlands]]. Some believe [[The WYZZYIRD]] is involved
+in the district as well, but no one who has furthered this theory has ever
+been heard from again.
+
+- Perhaps a more reasonable theory is that of resistance leader
+[[Petrov van der Deathface]], who believes the district to be the secret cult
+worshipping grounds of the [[Clown-God of Slaughter|Teramince, Clown-God of Slaughter]].
+
+- Third Quartile officials have assured the public that there is nothing suspicious
+going on in the district, but of course one should take these assurances with
+a grain of salt.
+
+Three months ago, [[First Quartile]] leaders said they were preparing an
+investigation into the Mystery District, but no action has been taken by them
+since then.
+
+~~ Khan, Alexandra

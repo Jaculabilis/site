@@ -1,0 +1,39 @@
+# Player: NVB
+# Turn: 6
+# Title: Literarosphere
+
+One of the many, //many// semi-apocalyptic devices constructed by [[Kelorna the Extremely Confused]] 
+over the years, the **Literarosphere** was a compendium of knowledge intended to provide a 
+companion perspective to the [[Codex Ingenuous]].  The exact technical specifications of 
+the device remain mercifully unknown, but it's likely that it functioned similarly to a 
+[[brainsplainer|Brainsplainer]], as the brainsplainer development process began with salvaged 
+pieces of the Literarosphere.  However, Kelorna's intent for the device is on record:
+
+//Mwa ha ha!  For too long, that fool Guage has hidden the secrets of the Codex from me!  
+But he was too short-sighted, for merely relocating the Codex//[1] //is not enough to stop me from 
+collecting all of it and seizing the Great Secret!  With this device, I shall reach into 
+history itself and reconstruct the Codex—and THEN, I shall RULE THE WORLD!  BWA HA HA HA!  
+COWER, MORTALS!  COWER AND BEHOLD!//[2]  
+
+Unfortunately, while it seems Kelorna intended the Literarosphere to view the historical record
+passively, it the device was actually able to effect changes in the past—a possibility
+it appears [[she did not consider|What-could-go-wrong-ism]].  Naturally, the device subsequently 
+exploded.  It is impossible to prove //which// changes occurred as a result of the Literarosphere, 
+as at this point they have always been as they are, but it is a safe bet that any [[use|Scorialic Sea]] 
+of [[unanimite]] before its invention in 1901 is the result of temporally-displaced fragments 
+of the Literarosphere.
+
+The Literarosphere was built after the failure of the Omnihammer (a device to turn everything 
+into nails), and was followed by an unnamed and swiftly abandoned plot to "drown the world 
+in syrup".[3]
+
+~ Yedevek Ilron, Bardslayer 2nd class
+
+[1] Kelorna refers here to the then-recent theft of half the Codex by [[Thrognurith the Dragon Rider]].  No connection between Thrognurith and Guage has ever been proven, and 
+given Kelorna's characteristic paranoia, it is generally assumed that Guage (circa 2nd 
+century) had little or nothing to do with the theft (which occurred in the 18th century).
+
+[2] As quoted in //"Until the End of Time": A Brief Biography of Kelorna the Extremely 
+Confused, Vol. III (Abridged Version)// by Dr. Sid Martius, p. 859.  Emphasis his.
+
+[3] //Ibid//, p. 1003.

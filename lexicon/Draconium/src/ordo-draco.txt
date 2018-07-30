@@ -1,0 +1,23 @@
+# Player: TVB
+# Turn: 3
+# Title: Ordo Draco
+
+Dragon scientists recognize 14 families of dragons under the order //Draco//, following the classification first proposed by the //Empyreal Compendium of Beneficent Wisdom//. The families are, briefly:
+
+• **Imperatoris** - Imperatorids, also known as "greater dragons", are the largest dracoforms, with most genera having wingspans and body lengths in the tens of meters. The extinct[1] species //Sacramerda maxima// is conjectured to have had a body length on the order of a hundred meters.\\
+• **Condentes** - Most smaller dracoforms are condents, such as [[tarworms|Newtprester Resina]], though some condents are larger. Most condents have highly adapted dermal tissue suited to their environment.\\
+• **Conformata**, **Porca**, **Sirena** - Conformates, porcates, and sirens were all hunted to extinction by [[Thrognurith the Dragon Rider]], who then destroyed most of the scholarly corpus on them.\\
+• **Fabulosa** - The fabulosates are a now-extinct family of dracoforms characterized by being entirely fictional.\\
+• **Canes**, **Conjecta** - Canids and conjectates are characterized by their unique spirations. Canids utilize unique methods to generate heat, while conjectates utilize chemical reactions that draw heat out of the target to freeze it rather than combust it.\\
+• **Trementes** - The only trement genus is //Utinsanus//, which was given its own family after it made the other imperatorids uncomfortable.\\
+• **Innumerabiles** - We do not speak of //Innumerabiles//[2].\\
+• **Picta** - Pictates are theorized to exist, but have yet to be observed.\\
+• **Cetera** - The ceterates consist mostly of dracoforms that dracologists haven't succeeded in classifying elsewhere.\\
+• **Frangentes** - Frangents are distinguished from other dracoforms primarily by their morphological adaptations for complex mating calls, which are also used for weakening solid structures prior to breathing fire.\\
+• **Muscae** - Flocks of birds in the shape of a dragon, muscates were not classified in the order //Draco// until they raided a military complex and made off with the flamethrowers. After [[a tense standoff at a dragon science symposium|Please Don't Shoot, We'll Do It Act]], dracologists agreed to write them into the draconic taxonomy.
+
+~ Heraclitavian de Sobrel, dracophylogeneticist
+
+[1] We hope.
+
+[2] [[Or else.|The Educational Exploitation of Dragon Fire]]

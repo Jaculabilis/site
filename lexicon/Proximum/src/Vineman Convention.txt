@@ -1,0 +1,36 @@
+# Player: NVB
+# Turn: 2
+# Title: Vineman Convention
+
+The **Vineman Convention** was a rule of resource allocation first set forth by the 
+inimitable Kelly Vineman, the first Head Researcher appointed after the establishment of 
+the Nexus outpost in the Nearside.
+
+In the disastrous wake of [[Yanner's Inversion]], Nexus arcanostrategists decided a more 
+proactive approach to cataclysm prevention was needed.  This decision was handed down to 
+the heads of each division to execute as they saw fit, as per Nexus custom.  Vineman's 
+response was to institute the Vineman Convention, which simply ran: "Assign funding 
+priority to projects combating existential threats."  Her hope was that teams of people, 
+working in advance of the actual threat, could provide enough leeway to prevent 
+unnecessary mistakes like those resulting from Yanner's bungling.  For this reason, the 
+Convention became informally known as the "Seventh Lenning."
+
+Ironically, the first wave of Vineman Convention projects were aimed at controverting the 
+aftereffects of the Inversion itself.  Researchers gradually became aware that the 
+ontological trauma sustained by the Nearside during the inversion allowed for trace 
+amounts of the substance we now know as [[Ignis Ignotus]] to seep into the plane.  
+Exposure to Ignis Ignotus had a morphogenic effect on the Nearside's natives, a process 
+we now know results in a complete and irrevocable transformation into the cruel and 
+sinister Pyroxenes.  This period of research culminated in the development of the 
+[[GCVS systems|Gravitational Containment and Vacuum Sealing]] that maintain Nexus space 
+in the Nearside to this day, dividing our exquisite home from the eldritch horrors beyond 
+the energy shields.  Environmental reclamation efforts were underway for some time, but 
+were indefinitely suspended after the [[Lesser Incursion]].
+
+With the completion of the GCVS systems, the Vineman Convention became little more than 
+a historical curiosity until some utter imbecile at the Scholarium officially declared 
+the [[aberidus]] an existential threat. The resulting reallocation of resources 
+unnecessarily crippled many promising projects and ruined several careers, all because 
+that addled, senile //idiot// couldn't resist a pun.
+
+~ Signed, Duke Strato Merovalitus

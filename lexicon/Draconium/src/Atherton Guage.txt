@@ -1,0 +1,45 @@
+# Player: NVB
+# Turn: 3
+# Title: Atherton Guage
+
+A quixotic and storied figure in [[Codex|Codex Ingenuous]] lore, **Atherton Guage** is the 
+subject of so many wildly varying tales that all of them cannot possibly true—a fact, it 
+must be said, that draws Bardslayer attention like bloody water draws sea wyrms.  Given 
+extant writings on the man, I will merely offer a brief summary.
+
+Our actual evidence of Guage's life is scant.  We know from the Codex Ingenuous that he was 
+a prominent figure in [[Ergniramniphoniclufiville]] and a contemporary—and political opponent—of 
+[[Kelorna the Extremely Confused]].  Though referred to only as the "Wheelmind" in the Codex, 
+comments by Kelorna in the present day confirm that Guage was her primary opponent during 
+final batch of experiments that are presumed to have resulted in Ergniramniphoniclufiville's 
+disappearance.  Unfortunately, most of these comments are off-handed references, collected 
+from the transcripts of her characteristic monologues while e.g. unleashing another doomsday 
+device or blowing up the current head of government.  And since [[undergoing dragonfire-induced 
+radical behavior modification therapy|The Educational Exploitation of Dragon Fire]], Kelorna 
+has ceased being //ingenuously// "extremely confused", and is now, to all appearances, //actually//
+extremely confused.  It seems unlikely she will be able to provide further information.
+
+Guage's most notable accomplishment, however, needs no immortal supervillain to confirm its 
+existence.  To prevent the power of the [[Gauge Enigma]] from falling into the wrong hands 
+(that is, Kelorna's), he brought forth a great working that remains without equal to this day.  
+Lirian Inkbowels put it particularly well: 
+
+//Dark the brow, quick the fingers of the Wheelmind as raised he a bulwark 'gainst the unworthy.  
+Wheels of fire issued forth from the ground, and the Gauge Enigma//[1]// was enshrined in the sky, 
+warded forever.//  (CI #209, p. 147)
+
+I hardly need explain at this point that this is why the all-encompassing network of metal 
+gears in the sky is known as the "Guage Enigma".  The ever-shifting patterns among the gears 
+make for an excellent deterrent for those like Kelorna, who is bad at math.  However, it 
+is unlikely it will stop those like the estimable D. R. Loblaw, whose 
+[[groundbreaking|Epiliton]] [[work|Haiku of Keysmith Xemoniphon the Elder]] 
+on the Guage Enigma would surely advance the field if he were invited to conferences anymore.[2]
+
+~ Yedevek Ilron, Bardslayer 2nd class
+
+[1] Some translators alternatively render the phrase //εωερυβοδυ διεσ// as "Great Secret".  
+For a number of reasons, the Sel and Kimoth translation, which I use here, elected to stick 
+with the vernacular.
+
+[2] Alas, part of this is his fault.  I am told that instead of presenting, he just stands 
+on the podium and mumbles about numbers.

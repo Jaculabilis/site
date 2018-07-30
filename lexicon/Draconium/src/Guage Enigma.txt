@@ -1,0 +1,55 @@
+# Player: NVB
+# Turn: 5
+# Title: Guage Enigma
+
+Not to be confused with the //Gauge Enigma//, the **Guage Enigma** is a complex system of 
+metal gears covering the entire atmosphere.  It is commonly accepted that the Guage Enigma 
+was created by Atherton Guage for the sole purpose of preventing [[Kelorna the Extremely Confused]] 
+from accessing the Great Secret.  However, recent scholarship on the [[Codex Ingenuous]] 
+has challenged this narrative, and at least from a textural criticism standpoint, their 
+thesis is quite compelling.
+
+The initial argument, known as the "Red Herring Thesis", comes from the character of the 
+Wheelmind himself, as discussed by the anonymous author of CI #206: 
+
+//Man or devil—it is not given to man to know the inner thoughts of the Wheelmind.  
+Once you think you have grasped the scheme behind the scheme, you have but fallen into a 
+third scheme, and yet none of those schemes had anything to do with his true purpose.// (p. 89)  
+
+These sentiments are shared by many sources, apparently including Atherton Guage himself—the 
+Guage family motto roughly translates to "Never do anything for only one reason."  Thus, 
+the scholars argue, the Guage Enigma likely served some purpose in addition to stalling Kelorna.
+
+The Red Herring Thesis emerged around the same time as a concurrent development within the 
+niche field of historical kleidiology.  Careful analysis of the [[Index Ingenuous]] reveals 
+that the production of keys actually //predates// the Guage Enigma.  Indeed, between the keys' 
+strange [[ontological|Ontological cost]] and [[phenomenological|Protoellipses]] properties, 
+it is questionable why such advanced items would be needed to "unlock" a mere assembly of 
+metal gears, especially when enigmonomers have yet to discover even one keyhole through 
+telescopic observation.
+
+Thus, we arrive at what is being termed the "Phylactery Hypothesis", which posits that the keys 
+were actually designed as repositories for mortal souls.  Though there are numerous references 
+within the Codex to a relation between the keys and the Guage Enigma, they use the preposition 
+"//λεστ//"; thus, the phrase "keys to the Guage Enigma" could also be translated 
+"keys //for// the Guage Enigma."  This rendering would make the keys a //means of passage// 
+into or through the Enigma.  By the relocation of the soul to an enduring apparatus, a 
+mortal could theoretically avoid death indefinitely.  And indeed, some 
+[[immortals|Kevyn: Drogoanthropic Hybrid & Class “B” Dooshbäg]] have hinted that this 
+is in fact the case for some of the better-preserved keys.
+
+The Phylactery Hypothesis also sheds new light on ambiguities in the 
+[[Haiku of Keysmith Xemoniphon the Elder]].  Kleidiologists have long puzzled over his phrase 
+"forge the seven keys", as over 500[1] keys are known to exist.  But suppose that only seven keys 
+//functioned as phylacteries//.  The pattern "one by four by one by one" corresponds chronologically 
+to Atherton Guage's [[known|Meklondiche]] [[key-forging|Meteoric Temple]] [[activity|Epiliton]]; 
+Xemoniphon, greatest of the Keysmiths, may have been saying that "forging" (in the sense of
+"imitating" or "progressing along") Guage's journey of development is necessary to 
+understand what he was doing—i.e., "Unlock the one Guage".
+
+If that's the case, then it suddenly becomes clear why eyewitness accounts report that Xemoniphon 
+[[vanished into thin air|Xemoniphon the Elder]] after waving around his [[masterwork|Key of Xemonides]]
+
+~ Yedevek Ilron, Bardslayer 2nd class
+
+[1] That is, more than seven.

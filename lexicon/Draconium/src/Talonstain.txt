@@ -1,0 +1,40 @@
+# Player: NVB
+# Turn: 1
+# Title: Talonstain
+
+Though no dragon has initiated a conversation with a human since the years of the Dragon 
+Emperors, they will still converse with [[Fireminds]] who engage them in the Firetongue.  
+As the Firetongue can only be heard or spoken to another's soul, it is impossible for 
+bystanders to glean direct insight from these conversations, and of course the Fireminds 
+do not speak of what they have learned.  However, Fireminds often pick up unusual linguistic 
+habits, including some telling additions to their vocabulary.  The most common addition is 
+the draconic swear word "**talonstain**."  No precise definition is needed, I think, to 
+understand what is meant of the person so labelled, as well as some hints as to how the 
+noble ones judge a person's worthiness.  But we do find some interesting usage among the 
+authors of the Codex Ingenuous (who were, of course, all Fireminds, with the obvious 
+exception of [[Kelorna the Extremely Confused]]), some examples of which I share below.
+
+In the Chronicles of Wayn, the anonymous poet writes (ln 45,559-45,562):
+
+//As falls upone the Foe, with mightie furnace-breaths, ///// So did great Pulchroon, 
+deep-tyrant, reduce to ///// Talonstains the manlings' fears.// (This comes, of course, from 
+the Steingaärd translation.)
+
+We see here that the word "talonstain" carries connotations of a thing reduced to nothing, 
+usually in the context of a violent struggle.  (This framing is shared with depictions of
+the dragon therapist Pulchroon elsewhere in the Codex.)  The word easily makes the jump to 
+the metaphorical, as seen in Jeminus's "Rout of the Philosophies" (CI #782, p. 27):
+
+//And Dragon-King Goortros spake, saying, Ye fools, knoweth ye not that your wisdom is 
+but talonstains?  Lo, Thraxmanides accosted me, saying, all is that is and all is not that 
+is not, but where are his words now that I have eaten him?//
+
+But of course the word sees simple pejorative use in the Codex as well, as per the Elder 
+Fürth's //Commentaries// on his earlier //Transgressive Dialogues//:
+
+//All you talonstains need to just shut up and let the actually enlightened folk do the 
+talking.  Okay?  Okay.// (CI #1445, p. 394)
+
+As a personal note, the above quote hangs above my door.
+
+~ Yedevek Ilron, Bardslayer 2nd class
