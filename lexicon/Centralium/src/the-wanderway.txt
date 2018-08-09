@@ -1,0 +1,13 @@
+# Player: TVB
+# Turn: 1
+# Title: The Wanderway
+
+The **Wanderway** is a high-speed aetheric current that encircles the planet. Its name is  due to constant fluctuation of its path with respect to latitude, though to date it has yet to approach within 15 degrees of the poles. Because of this fluctuation, it is nearly useless for any serious aetheric travel, though it remains a subject of intense scientific study. Aetheric currents generally become too unstable to use at a circumference of about three miles, and so the Wanderway's relative stability compared to theoretical predictions gives many researchers hope for improvement on smaller scales.
+
+The Wanderway is, of course, still used. Over short distances, it is even safe to do so. This remains difficult to take advantage of, because there is no guarantee that the Wanderway will be nearby when one needs it, or that it won't have any curves too sharp for aetheric payloads to navigate without falling out. Even worse, if it shifts too quickly (which happens often enough to be a concern), everything inside may be ejected and left stranded, flying through the air on their previous trajectory.
+
+Today, the Wanderway is impossible to use without heavy armor or well-shielded aetheric transports. Some cabal of crazies took the [[Sixth|The Piercing Stricture]] a little too literally and dumped a vast quantity of needles, nails, and other small, sharp objects into the Wanderway, which continue to appear out of nowhere with the force of bullets as it shifts.
+
+Despite all of this, [[Ursinquisitors|The Bear Inquisition]] continue to attempt to make use of it for long-distance travel, resulting in the occasional aetheric rift appearing out of nowhere and spitting out a heavily-armed bear at a speed matched only by its rage. The Scriptorium's location appears to be a particularly hot spot for this, which causes me no end of grief as the sisters keep calling me from my other duties to deal with these intruders.
+
+~Sister Avacillata, Nun-Scholar of the Scriptorium
