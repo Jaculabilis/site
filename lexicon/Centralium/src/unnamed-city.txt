@@ -1,0 +1,26 @@
+# Player: ES
+# Turn: 6
+# Title: Unnamed City
+
+Communique 58:// #subsector 5, High Office Chamberlain
+
+AethID 94019-81:/ CalypsoNet
+
+"In this place, long contested over many years, we have made our home. We shall not move from this sacred city. It shall become our homeland. Our hallowed den, from which we shall sojourn to hunt heresy and within which we guard the heart of our order." --Words spoken on the dedication of the Ursinquitous Great Den, by Venerable Father Malthus the Wise
+
+From: Ursinquisitor Thelemas Tier
+
+Greetings Blessed Chamberlain of All Fury,
+
+The crusade goes well. The brothers you have sent to aid me in this noble endeavour have acquitted themselves well, several dying bravely with great fury and much destruction to the heretics.
+
+I fear, however, that it may not be enough. As you well now, after the dissipation of [[Larry's Kingdom|Larry's Conquest]] the Unnamed City remained vacant for centuries. When the Ursinquisitous made the City its new home, you know what we found there in the lower reaches, down in the dark. I fear we may need it. The Great Weapon. 
+
+Perhaps we may succeed in this mighty purge without it. But I hear that the corruption runs too deep, and that dire measures may be required. If we should fail, [[Hell itself| Earthson's Bar and Grill]] may be unleashed. May the Great Bear guard us all in purity. 
+
+I have heard tell that refugees from the Central Order have made their way to the Unnamed City. I am concerned at this news, unless there is perhaps a deeper wisdom to this act of apparent "mercy." I will not make my suspicion known here, for fear of it falling into enemy hands, but I do wonder if this is not unlike the clever machinations of Arbiter Zelonititus in the [[3rd Great Crusade|The Fellowship of the Living Word]]. If it is so, then perhaps the Great Weapon can be put to use to purge this corruption once and for all in a great roar of blood.
+
+I remain humble in your service, and with great wrath to all corruption,
+
+~Brother Thelemas Tier, Ursinquisitor, 3rd Order of the Blooded Claw and Penitent of All Mysteries, Boneroarer of the 5th Great Crusade.
+
