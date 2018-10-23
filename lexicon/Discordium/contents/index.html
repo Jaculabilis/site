@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Index of Lexicon Discordium | Lexicon Discordium</title>
+<!--<link rel="shortcut icon" href="favicon.png" />-->
+<meta charset="utf-8"/>
+<style>
+body { background-color: #eeeeee; margin: 10px; }
+div#header { background-color: #ffffff; margin: 10px 0; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
+img#logo { float:left; margin:8px; max-width: 140px; }
+div#header p { margin:10px; }
+div.content { margin-top: 10px; background-color: #ffffff; padding: 10px; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
+a.phantom { color: #cc2200; }
+div.citeblock a.phantom { font-style: italic; }
+span.signature { text-align: right; }
+div.moveable { float: left; margin: 8px; }
+div.moveable p { margin: 0px; }
+</style>
+</head>
+<body>
+<div id="header">
+<img id="logo" src="../butterfly-effect-advisory.png">
+<p><span style="font-size:1.5em;">Lexicon Discordium</span></p>
+<p>
+<a href="../contents/?byindex">Contents</a> &mdash;
+<a href="../rules/">Rules</a> &mdash;
+<a href="../formatting/">Formatting</a> &mdash;
+<a href="../session/">Session</a> &mdash;
+<a href="../statistics/">Statistics</a>
+</p>
+<p><i>You are members of the Butterfly Effect Advisory Committee, charged by the Disputatious Assembly of Sovereigns with preparing an exhaustive report in advance of the Disarrangement Act.</i></p>
+</div>
+<div class="content">
+<h1>Index of Lexicon Discordium</h1>
+<p>There are <b>5</b> entries, <b>4</b> written and <b>1</b> phantom.</p>
+<script type="text/javascript">
+contentsToggle = function() {
+	var b = document.getElementById("toggle-button");
+	var i = document.getElementById("index-order");
+	var t = document.getElementById("turn-order");
+	if (t.style.display == "none") {
+		i.style.display = "none";
+		t.style.display = "block";
+		b.innerText = "Switch to index order";
+	} else {
+		i.style.display = "block";
+		t.style.display = "none";
+		b.innerText = "Switch to turn order";
+	}
+}
+window.onload = function(){
+	if (location.search.search("byturn") > 0)
+	{
+		document.getElementById("turn-order").style.display = "block";
+		document.getElementById("toggle-button").innerText = "Switch to index order";
+	}
+	if (location.search.search("byindex") > 0)
+	{
+		document.getElementById("index-order").style.display = "block";
+		document.getElementById("toggle-button").innerText = "Switch to turn order";
+	}
+}
+</script>
+<button id="toggle-button" onClick="javascript:contentsToggle()">Switch to turn order</button>
+<div id="index-order" style="display:none">
+<ul>
+<h3>A</h3>
+<h3>B</h3>
+<h3>C</h3>
+<h3>D</h3>
+<h3>E</h3>
+<li><a href="../article/Example_page.html">Example page</a></li>
+<h3>F</h3>
+<h3>G</h3>
+<h3>H</h3>
+<h3>I</h3>
+<h3>J</h3>
+<h3>K</h3>
+<h3>L</h3>
+<h3>M</h3>
+<h3>N</h3>
+<h3>O</h3>
+<h3>P</h3>
+<li><a href="../article/Phantom_page.html" class="phantom">Phantom page</a></li>
+<h3>Q</h3>
+<h3>R</h3>
+<h3>S</h3>
+<h3>T</h3>
+<h3>U</h3>
+<h3>V</h3>
+<h3>W</h3>
+<h3>X</h3>
+<h3>Y</h3>
+<h3>Z</h3>
+<h3>~</h3>
+<li><a href="../article/7ECincinatta_Rubric2C_MsD.html">~Cincinatta Rubric, MsD</a></li>
+<li><a href="../article/7ERemilion_Christophy.html">~Remilion Christophy</a></li>
+<li><a href="../article/7ESpheven_Kain.html">~Spheven Kain</a></li>
+</ul>
+</div>
+<div id="turn-order" style="display:none">
+<ul>
+<h3>Turn 0</h3>
+<li><a href="../article/7ECincinatta_Rubric2C_MsD.html">~Cincinatta Rubric, MsD</a></li>
+<li><a href="../article/7ERemilion_Christophy.html">~Remilion Christophy</a></li>
+<li><a href="../article/7ESpheven_Kain.html">~Spheven Kain</a></li>
+<h3>Turn 1</h3>
+<li><a href="../article/Example_page.html">Example page</a></li>
+<h3>Unwritten</h3>
+<li><a href="../article/Phantom_page.html" class="phantom">Phantom page</a></li>
+</ul>
+</div>
+</div>
+</body>
+</html>
