@@ -1,35 +1,28 @@
 <html>
 <head>
 <title>Example page | Lexicon Discordium</title>
-<!--<link rel="shortcut icon" href="favicon.png" />-->
 <meta charset="utf-8"/>
-<style>
-body { background-color: #eeeeee; margin: 10px; }
-div#header { background-color: #ffffff; margin: 10px 0; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
-img#logo { float:left; margin:8px; max-width: 140px; }
-div#header p { margin:10px; }
-div.content { margin-top: 10px; background-color: #ffffff; padding: 10px; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
-a.phantom { color: #cc2200; }
-div.citeblock a.phantom { font-style: italic; }
-span.signature { text-align: right; }
-div.moveable { float: left; margin: 8px; }
-div.moveable p { margin: 0px; }
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../lexicon.css">
 </head>
 <body>
+<div id="wrapper">
 <div id="header">
-<img id="logo" src="../butterfly-effect-advisory.png">
-<p><span style="font-size:1.5em;">Lexicon Discordium</span></p>
-<p>
-<a href="../contents/?byindex">Contents</a> &mdash;
-<a href="../rules/">Rules</a> &mdash;
-<a href="../formatting/">Formatting</a> &mdash;
-<a href="../session/">Session</a> &mdash;
-<a href="../statistics/">Statistics</a>
-</p>
+<h2 id="title">Lexicon Discordium</h2>
 <p><i>You are members of the Butterfly Effect Advisory Committee, charged by the Disputatious Assembly of Sovereigns with preparing an exhaustive report in advance of the Disarrangement Act.</i></p>
 </div>
-<div class="content">
+<div id="sidebar">
+<table>
+<tr><td><img id="logo" src="../butterfly-effect-advisory.png"></td></tr>
+<tr><td><a href="../contents/?byindex">Contents</a></td></tr>
+<tr><td><a href="../rules/">Rules</a></td></tr>
+<tr><td><a href="../formatting/">Formatting</a></td></tr>
+<tr><td><a href="../session/">Session</a></td></tr>
+<tr><td><a href="../statistics/">Statistics</a></td></tr>
+</table>
+</div>
+<div id="content">
+<div class="contentblock">
 <h1>Example page</h1>
 <p>This is an example page.
 Some words are <i>italicized</i>,
@@ -40,11 +33,16 @@ Unlike the last paragraph, this line will be after a line break within the parag
 <p>This is an <a href="Phantom_page.html" class="phantom">example citation</a>. You can also cite a <a href="Phantom_page.html" class="phantom">phantom page</a> with just the title.</p>
 <hr><span class="signature"><p>Dr. X. Amplepage</p></span>
 </div>
-<div class="content citeblock">
-<p style="float:right"><a href="Phantom_page.html" class="phantom">Next &#8594;</a></p>
-<p><a href="7ESpheven_Kain.html">&#8592; Previous</a></p>
+<div class="contentblock citeblock">
+<table><tr>
+<td><a href="7ESpheven_Kain.html">&#8592; Previous</a></td>
+<td><a href="Phantom_page.html" class="phantom">Next &#8594;</a></td>
+</table></tr>
 <p>Citations: <a href="Phantom_page.html" class="phantom">Phantom page</a></p>
 <p>Cited by: &mdash;</p>
+</div>
+
+</div>
 </div>
 </body>
 </html>
