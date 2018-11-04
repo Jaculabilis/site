@@ -1,0 +1,19 @@
+# Player: NVB-HJ
+# Turn: 4
+# Title: The Double-North Pole
+
+With the world possibly getting re-arranged, I should like to raise one possibly unforeseen consequence: what will happen to the world's signature landmarks?
+
+I am concerned here particularly in the case of the **Double-North Pole**, which is a marvel of cartography and civic planning.  Let's begin with the history of this remarkable landmark.  Like anything cartographical, the tale's root can ultimately be found in the [[Mapmaker's Guild|The Venerable Society of Cartographers]].  When the Earth was first completely charted in AES 489, the Venerable Cartographers experienced internal dissension over where to put the compass rose on their maps.  The arguments, I fear, began to turn political, as nationally-aligned factions of the transnational Society began drawing the compass rose over countries they disliked.
+
+While this was going on, a discovery was in the works.  Now, as everyone knows, compasses don't work the same way in [[the Barcu region|Barcuvian antiweather]] that they do anywhere else in the world.  But suppose you traveled to Barcu and found north, then traveled somewhere else and found north there.  If you were to draw a line from each of those points, their point of intersection is what we now call the Double-North Pole.  This was first theorized in AES 535 by Iryu Bandan, and confirmed in AES 547 by the famed explorer Vertrad the Swift.
+
+Enter Candor Gunterman, a noble and patron of the Venerable Cartographers.  Wishing to see peace reign at last, he funded a major expedition to the Double-North Pole and founded the city of Bipolaris there.  That city became the seat of the Compass Republic, and they slowly expanded southward to claim more land in the shape of a compass rose, with Bipolaris forming the northern tip.  Gunterman, who remained monarch until AES 597, even had the foresight to shape the country such that it would have the correct proportions on a map using the Herzinger projection.
+
+In recent years, Bipolaris has seen great economic growth as the seat of Sovereign [[Klaus Santanna]], whose manufacturing innovations used the surrounding ice fields as heat sinks to massively increase production of goods.  The Double-North Pole's massive outpouring of goods has been aided by an unparalleled distribution network in the form of the [[Ulgravian zeppelin armada|The Ulgravian Diaspora]], who signed a lucrative trade deal with the Compass Republic in AES 980.
+
+~Dr. Herbert Jones\\
+University of Eyesland\\
+Professor of Cataloguing Various Things\\
+Heinrich Stafford Chair of Arrangement\\
+PhD in Miscenallia
