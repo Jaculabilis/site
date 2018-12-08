@@ -1,0 +1,7 @@
+# Player: TVB-RC
+# Turn: 13
+# Title: Assemblies of Gods
+
+In the wake of the incident in Shaster, the offering of divine assembly executions gradually became normal throughout the 970s. This contributed to a decrease in the number of sectarian conflicts, until a series of investigative journalism reports in 979 uncovered a dark underside to the Assemblies of Gods. Two years earlier, an anonymous Panarkian technomonk of the Desert Fleet (believed by many to be the [[alleged professor Marvin Fitch|Professor (allegedly) Marvin Fitch]]) had written a series of hymns that, when compiled into a divine assembly, injected various curses into other assemblies running on the same machine. This precipitated a massive scandal for the Panark Fleet, which their sovereign deftly handled by nationalizing the malicious hymn-software, gathering the nation's best programmers to reverse-engineer it, and adding it to their business model. Now sectarians can pay top dollar to Panark's technomonks to have hymns composed to attack their religious enemies' divine assemblies or defend their own against such attacks. As //physical// sectarian conflicts have continued to decrease, the international community has collectively agreed that this is an acceptable conclusion to the whole affair.
+
+~Dr. Remilion Christophy
