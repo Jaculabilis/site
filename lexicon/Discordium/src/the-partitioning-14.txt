@@ -1,0 +1,7 @@
+# Player: TVB-RC
+# Turn: 14
+# Title: The Partitioning
+
+When the Guild drew up the first maps with national borders on them, which formed the basis for subsequent territorial claims, a curious problem emerged. The borders themselves took up a nonzero amount of space on the map, leading troublemakers to ask who owned the land on which the borders were drawn. Despite the Guild's best efforts to draw the maps large and the borders thin, these border corridors ("borridors") could be miles wide in some places. This was handled in a variety of ways across the globe. On [[the Careless Continent]], national borders were too ephemeral to matter. Once [[Lepazzia]] drifted off the continent, its new neighbors across the ocean simply ceded the new borridors to Lepazzian control rather than attempt to face the withering Lepazzian passive-aggression that would accompany trying to negotiate their use. Similarly, the borridors around Kingsland are generally left alone, but that's mostly because nobody wants to get any closer to Kingsland than necessary.
+
+~Dr. Remilion Christophy
