@@ -1,6 +1,6 @@
 # Player: NVB-HJ
 # Turn: 0
-# Title: ⇒ Forward
+# Title: Forward
 
 In //Anno Ecclesiae Superregum// 989, the Hegemony of Whales put forth the **Disarrangement Act**, a proposal to rearrange the world in order to reduce war and promote greater harmony between nations.  To ensure the highest quality of deliberation and due diligence, a number of investigative committees were established to present the relevant facts to the Assembly.
 
