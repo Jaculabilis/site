@@ -1,35 +1,28 @@
 <html>
 <head>
 <title>Formatting | Lexicon Draconium</title>
-<!--<link rel="shortcut icon" href="favicon.png" />-->
-<style>
-body { background-color: #eeeeee; margin: 10px; }
-div#header { background-color: #ffffff; margin: 10px 0; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
-img#logo { float:left; margin:8px; max-width: 140px; }
-div#header p { margin:10px; }
-div.content { margin-top: 10px; background-color: #ffffff; padding: 10px; box-shadow: 2px 2px 10px #888888; overflow: hidden; }
-a.phantom { color: #cc2200; }
-div.citeblock a.phantom { font-style: italic; }
-span.signature { text-align: right; }
-div.moveable { float: left; margin: 8px; }
-div.moveable p { margin: 0px; }
-</style>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../lexicon.css">
 </head>
 <body>
+<div id="wrapper">
 <div id="header">
-<img id="logo" src="../TXEqZJ.png">
-<p><span style="font-size:1.5em;">Lexicon Draconium</span></p>
-<p>
-<a href="../contents/">Contents</a> &mdash;
-<a href="../rules/">Rules</a> &mdash;
-<a href="../formatting/">Formatting</a> &mdash;
-<a href="../session/">Session</a> &mdash;
-<a href="../statistics/">Statistics</a>
-</p>
+<h2 id="title">Lexicon Draconium</h2>
 <p>You are dragon enthusiasts studying the Codex Ingenuous for keys to the Gauge Enigma.</p>
 </div>
-<div class="content">
-<h1>Formatting</h1>
+<div id="sidebar">
+<table>
+<tr><td><img id="logo" src="../TXEqZJ.png"></td></tr>
+<tr><td><a href="../contents/?byindex">Contents</a></td></tr>
+<tr><td><a href="../rules/">Rules</a></td></tr>
+<tr><td><a href="../formatting/">Formatting</a></td></tr>
+<tr><td><a href="../session/">Session</a></td></tr>
+<tr><td><a href="../statistics/">Statistics</a></td></tr>
+</table>
+</div>
+<div id="content">
+<div class="contentblock">
 <p>Lexipython provides support for a limited amount of Markdown-esque formatting.</p>
 <pre style="background:#eeeeee">
 # Player: PN
@@ -39,20 +32,54 @@ div.moveable p { margin: 0px; }
 This is an example page.
 Some words are //italicized//,
 and some words are **bolded**.
-All of these sentences are part of the same paragraph.
+All of these sentences are part of the same
+paragraph.
 
 This is a new paragraph.\\
-Unlike the last paragraph, this line will be after a line break within the paragraph.
+Unlike the last paragraph, this line will be after a
+line break within the paragraph.
 
-This is an [[example citation|Phantom page]]. You can also cite a [[phantom page]] with just the title.
+This is an [[example citation|Phantom page]]. You can
+also cite a [[phantom page]] with just the title.
 
 ~Dr. X. Amplepage
 </pre>
-<p>Each turn, fill out the header with your player information, the  current turn, and the title of your entry. The <i>Player</i> field can be anything as long as it's the same for all articles you write (even when they're by different characters). Using your initials is recommended.</p>
-<p>Two line breaks begins a new paragraph. A single line break does nothing, unless the line is neded by a double backslash (\\).</p>
-<p>Text bounded by ** will be bolded: **bold** produces <b>bold</b>. Text bounded by // will be italicized: //italics// produces <i>italics</i>.</p>
-<p>To cite another Lexicon entry, use double brackets. Text in double brackets will cite and link to the entry of the same name: [[Example page]] produces <a href="Example_page.html" class="phantom">Example page</a>. Text in double brackets split with a | will alias the link as the left text and link to the entry with the name of the right text: [[this text|Example page]] produces <a href="Example_page.html" class="phantom">this text</a>. <b>You must be precise in the entry title you cite to.</b> Citations to "Example" vs. "The Example" will point to different entries and create different phantoms, and your GM will probably have to clean up after you.</p>
-<p>Beginning a paragraph with ~ will right-align it and place a horizontal line above it. Use this for signing your entry with your scholar's name.</p>
+<p>Each turn, fill out the header with your player information, the  current
+	turn, and the title of your entry. The <i>Player</i> field can be anything
+	as long as it's the same for all articles you write (even when they're by
+	different characters). Using your initials is recommended.</p>
+<p>Two line breaks begins a new paragraph. A single line break does nothing,
+	unless the line is ended by a double backslash (\\).</p>
+<p>Text bounded by ** will be bolded: **bold** produces <b>bold</b>. Text
+	bounded by // will be italicized: //italics// produces <i>italics</i>.</p>
+<p>To cite another Lexicon entry, use double brackets. Text in double brackets
+	will cite and link to the entry of the same name: [[Example page]] produces
+	<a href="Example_page.html" class="phantom">Example page</a>. Text in
+	double brackets split with a | will alias the link as the left text and
+	link to the entry with the name of the right text: [[this text|Example page]]
+	produces <a href="Example_page.html" class="phantom">this text</a>. <b>You
+		must be precise in the entry title you cite to.</b> Citations to
+		"Example" vs. "The Example" will point to different entries and create
+		different phantoms, and your GM will probably have to clean up after
+		you.</p>
+<p>Beginning a paragraph with ~ will right-align it and place a horizontal line
+	above it. Use this for signing your entry with your scholar's name.</p>
+</div>
+<div class="contentblock">
+<h1>Example page</h1>
+<p>This is an example page.
+Some words are <i>italicized</i>,
+and some words are <b>bolded</b>.
+All of these sentences are part of the same
+paragraph.</p>
+<p>This is a new paragraph.<br>
+Unlike the last paragraph, this line will be after a
+line break within the paragraph.</p>
+<p>This is an <a href="Phantom_page.html" class="phantom">example citation</a>. You can
+	also cite a <a href="Phantom_page.html" class="phantom">phantom page</a> with just the title.</p>
+<hr><span class="signature"><p>Dr. X. Amplepage</p></span>
+</div>
+</div>
 </div>
 </body>
 </html>
