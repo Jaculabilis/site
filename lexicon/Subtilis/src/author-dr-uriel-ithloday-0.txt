@@ -1,4 +1,4 @@
-# Player: MK
+# Player: MHK
 # Turn: 0
 # Title: Author: Dr. Uriel Ithloday
 
